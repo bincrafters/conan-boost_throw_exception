@@ -8,8 +8,8 @@ class BoostThrow_ExceptionConan(ConanFile):
     description = "Please visit http://www.boost.org/doc/libs/1_65_1/libs/libraries.htm"
     license = "www.boost.org/users/license.html"
     lib_short_names = ["throw_exception"]
-    requires =  "Boost.Config/1.65.1@bincrafters/stable", \
-                      "Boost.Assert/1.65.1@bincrafters/stable"
+    requires =  "Boost.Config/1.65.1@bincrafters/testing", \
+                      "Boost.Assert/1.65.1@bincrafters/testing"
     
     def source(self):
         boostorg_github = "https://github.com/boostorg"
