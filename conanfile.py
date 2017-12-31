@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostThrow_ExceptionConan(ConanFile):
     name = "boost_throw_exception"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-throw_exception"
+    url = "https://github.com/bincrafters/conan-boost_throw_exception"
 
     lib_short_names = ["throw_exception"]
     is_header_only = True
