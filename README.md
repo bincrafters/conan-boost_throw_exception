@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux | OSX |
 |---------|------------|--------|------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/conan-boost_throw_exception%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/conan-boost_throw_exception%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_throw_exception?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-throw_exception)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_throw_exception.svg)](https://travis-ci.org/bincrafters/conan-boost_throw_exception)|N/A|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_throw_exception%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_throw_exception%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_throw_exception?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-throw_exception)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_throw_exception.svg)](https://travis-ci.org/bincrafters/conan-boost_throw_exception)|N/A|
 
 ## Conan.io Information
 
