@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.69.0@bincrafters/testing")
 
 class BoostThrow_ExceptionConan(base.BoostBaseConan):
     name = "boost_throw_exception"
+    version = "1.69.0"
     url = "https://github.com/bincrafters/conan-boost_throw_exception"
     lib_short_names = ["throw_exception"]
     header_only_libs = ["throw_exception"]
